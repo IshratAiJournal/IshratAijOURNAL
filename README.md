@@ -3,10 +3,6 @@
 I'm a self-learning **Python beginner** and a full-time **mom of two** on a mission to explore the world of coding — one step at a time.  
 Learning with love, late nights, and lots of curiosity! ✨
 
-![Mom is Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBvNzY5amRrM29mM29oOGEybW1qaTRzM2gyZzY4djNmMTBzZGlhZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IauL6LvGNlT3ffhcqq/giphy.gif)
-
----
-
 ### 🌱 Currently Learning:
 - Python (FreeCodeCamp Certification ✅)
 - Git & GitHub
