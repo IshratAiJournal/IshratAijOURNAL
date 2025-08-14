@@ -12,7 +12,7 @@ Learning with love, late nights, and lots of curiosity! ✨
 ![Python](https://img.shields.io/badge/Python-beginner-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-learning-important)
 ![MomIsCoding](https://img.shields.io/badge/Mom-Is--Coding-ff69b4)
-!(Data%20Analytics%20Essentials.png)
+
 
 ### 📌 My Goals:
 - Stay consistent 💪  
