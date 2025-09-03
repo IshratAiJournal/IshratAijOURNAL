@@ -8,7 +8,9 @@
 ### [Bachpan Balance](https://github.com/IshratAiJournal/Bachpan_Balance)  
 A Streamlit app designed to help parents track children’s daily routines — from water intake and study habits to playtime and screen time — ensuring a healthy and balanced childhood.  
 
-[![App Screenshot](./Bachpan_Balance/screenshots/home.png)](https://github.com/IshratAiJournal/Bachpan-Balance/tree/main/screenshots)
+### Home Page
+![App Screenshot](https://github.com/IshratAiJournal/Bachpan_Balance/blob/main/screenshots/home.png?raw=true)
+
 
 ## 📜 Certifications & Learning  
 - ✅ FreeCodeCamp: *Scientific Computing with Python*  
@@ -18,14 +20,4 @@ A Streamlit app designed to help parents track children’s daily routines — f
 ## 📬 Connect with me  
 - 📧 Email: ishrat.learning@gmail.com
 - 🌐 [My GitHub Projects](https://github.com/IshratAiJournal)  
-
-
-### ✨ Badges:
-![Python](https://img.shields.io/badge/Python-beginner-blue)
-![GitHub](https://img.shields.io/badge/GitHub-learning-important)
-![MomIsCoding](https://img.shields.io/badge/Mom-Is--Coding-ff69b4)
-
-
-
-Let's connect and grow together 🚀  
 
