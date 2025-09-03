@@ -1,12 +1,24 @@
-# Hi there! I'm Ishrat 👩‍💻🌸
+# 👋 Hi, I'm Ishrat  
+*Exploring AI, Python, and creative tech solutions.*  
 
-I'm a self-learning **Python beginner** and a full-time **mom of two** on a mission to explore the world of coding — one step at a time.  
-Learning with love, late nights, and lots of curiosity! ✨
+💡 Passionate about using technology for **parenting, education, and productivity**.  
+🌱 Always learning, building, and sharing along the way.  
 
-### 🌱 Currently Learning:
-- Python (FreeCodeCamp Certification ✅)
-- Git & GitHub
-- Building my first projects!
+## 🚀 Featured Project  
+### [Bachpan Balance](https://github.com/IshratAiJournal/Bachpan_Balance)  
+A Streamlit app designed to help parents track children’s daily routines — from water intake and study habits to playtime and screen time — ensuring a healthy and balanced childhood.  
+
+![App Screenshot](./Bachpan_Balance/screenshots/home.png)  
+
+## 📜 Certifications & Learning  
+- ✅ FreeCodeCamp: *Scientific Computing with Python*  
+- ✅ Python Programming (Coursera – University of Michigan)  
+- 📖 Currently expanding skills in AI & Data Analysis  
+
+## 📬 Connect with me  
+- 📧 Email: ishrat.learning@gmail.com
+- 🌐 [My GitHub Projects](https://github.com/IshratAiJournal)  
+
 
 ### ✨ Badges:
 ![Python](https://img.shields.io/badge/Python-beginner-blue)
@@ -14,10 +26,6 @@ Learning with love, late nights, and lots of curiosity! ✨
 ![MomIsCoding](https://img.shields.io/badge/Mom-Is--Coding-ff69b4)
 
 
-### 📌 My Goals:
-- Stay consistent 💪  
-- Build real-world projects 🛠️  
-- Make my kids proud ❤️  
 
 Let's connect and grow together 🚀  
 
