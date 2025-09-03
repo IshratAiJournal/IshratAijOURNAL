@@ -9,7 +9,9 @@
 A Streamlit app designed to help parents track children’s daily routines — from water intake and study habits to playtime and screen time — ensuring a healthy and balanced childhood.  
 
 ### Home Page
-https://github.com/IshratAiJournal/Bachpan-Balance/blob/main/screenshots/home.png?raw=true
+![App Screenshot](https://github.com/IshratAiJournal/Bachpan_Balance/blob/main/screenshots/home.png?raw=true)
+
+
 ## 📜 Certifications & Learning  
 - ✅ FreeCodeCamp: *Scientific Computing with Python*  
 - ✅ Python Programming (Coursera – University of Michigan)  
